@@ -59,13 +59,13 @@ def author_stats(authors_of_papers):
         authors_of_papers: A list of strings. Each string should contain all authors of a paper, in the form of
         "Author1 Name and Author2 Name and ..."
     Returns:
-        last_author_count: A dictionary mapping authors to the number of papers were they were the last author.
-            Papers with only one author will be ignored in this.
-        second_to_last_author_count: The same as above, but for second to last authors.
-            Papers with only two authors will be ignored in this.
+        A dictionary mapping authors to the number of papers were they were the last and second-to-last author:
+            Key: Name of author
+            Value: List of two integers. The first integer counts last author, the second counts second-to-last author
     """
 
     # Create empty dictionaries
+    last_and_s2l_count = {}
     last_author_count = {}
     second_to_last_author_count = {}
 
@@ -73,27 +73,30 @@ def author_stats(authors_of_papers):
         # *string.split* will return a list of sub-strings, separated by ' and '
         authors = authors_of_paper.split(' and ')
 
+        # Initialize: add all new authors to the dictionary with a value of [0, 0] (a list of two integers)
+        for author in authors:
+            if author not in last_and_s2l_count:
+                last_and_s2l_count[author] = [0, 0]
+
         # Count the last author. We will ignore the papers that have only 1 author.
         if len(authors) > 1:
             last_author = authors[-1]
-
-            # If the last author already exists in the count dictionary, increment the value. If not, add it to the
-            # dictionary with value 1
-            if last_author in last_author_count:
-                last_author_count[last_author] = last_author_count[last_author] + 1
-            else:
-                last_author_count[last_author] = 1
+            # Increment the value in the dictionary. Note that all authors have already been added to the dictionary.
+            # The first element in the list refers to the last-author count
+            last_and_s2l_count[last_author][0] = last_and_s2l_count[last_author][0] + 1
 
         # Count the second-to-last author. We will ignore the papers that have only 1 or 2 authors.
         if len(authors) > 2:
             second_to_last_author = authors[-2]
-
             # Same as above
-            if second_to_last_author in second_to_last_author_count:
-                second_to_last_author_count[second_to_last_author] = \
-                    second_to_last_author_count[second_to_last_author] + 1
-            else:
-                second_to_last_author_count[second_to_last_author] = 1
+            # The second element in the list refers to the second-to-last-author count
+            last_and_s2l_count[second_to_last_author][1] = last_and_s2l_count[second_to_last_author][1] + 1
+
+    logger.info('Processed %s authors', len(last_and_s2l_count))
+
+    return last_and_s2l_count
+
+
 
     return last_author_count, second_to_last_author_count
 
@@ -105,7 +108,8 @@ def main():
     """
 
     authors_of_papers = get_authors_of_papers()
-    last_author_count, second_to_last_author_count = author_stats(authors_of_papers)
+    last_and_s2l_count = author_stats(authors_of_papers)
+    write_dictionary_to_csv(last_and_s2l_count)
 
     # Log run time
     logger.info('@ %.2f seconds: Run finished', time.process_time())
