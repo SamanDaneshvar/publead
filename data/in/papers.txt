@@ -1,0 +1,1609 @@
+@inproceedings{46604,
+title	= {(Almost) Zero-Shot Cross-Lingual Spoken Language Understanding},
+author	= {Shyam Upadhyay and Manaal Faruqui and Gokhan Tur and Dilek Hakkani-Tur and Larry Heck},
+year	= {2018},
+booktitle	= {Proceedings of the IEEE ICASSP}
+}
+
+
+@incollection{47214,
+title	= {82 Treebanks, 34 Models: Universal Dependency Parsing with Cross-Treebank Models},
+author	= {Aaron Smith and Bernd Bohnet and Joakim Nivre and Miryam de Lhoneux and Sara Stymne and Yan Shao},
+year	= {2018}
+}
+
+
+@inproceedings{47111,
+title	= {A Case for a Range of Acceptable Annotations},
+author	= {Jennimaria Palomaki and Olivia Rhinehart and Michael Tseng},
+year	= {2018},
+URL	= {https://sadworkshop.files.wordpress.com/2018/07/sad_2018_paper_8-1.pdf},
+booktitle	= {Workshop on Subjectivity, Ambiguity and Disagreement in Crowdsourcing}
+}
+
+
+@proceedings{47391,
+title	= {A Fast, Compact, Accurate model for Language Identification of Codemixed Text},
+editor	= {Yuan Zhang and Jason Riesa and Dan Gillick and Anton Bakalov and Jason Baldridge and David Weiss},
+year	= {2018},
+URL	= {http://aclweb.org/anthology/D18-1030},
+booktitle	= {Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP)}
+}
+
+
+@inproceedings{47347,
+title	= {A Step-by-Step Process for Building TTS Voices Using Open Source Data and Framework for Bangla, Javanese, Khmer, Nepali, Sinhala, and Sundanese},
+author	= {Keshan Sodimana and Knot Pipatsrisawat and Linne Ha and Martin Jansche and Oddur Kjartansson and Pasindu De Silva and Supheakmungkol Sarin},
+year	= {2018},
+URL	= {http://dx.doi.org/10.21437/SLTU.2018-14},
+booktitle	= {Proc. The 6th Intl. Workshop on Spoken Language Technologies for Under-Resourced Languages},
+pages	= {66--70}
+}
+
+
+@inproceedings{47341,
+title	= {A Unified Phonological Representation of South Asian Languages for  Multilingual Text-to-Speech},
+author	= {Isin Demirsahin and Martin Jansche and Alexander Gutkin},
+year	= {2018},
+URL	= {http://dx.doi.org/10.21437/SLTU.2018-17},
+booktitle	= {Proc. The 6th Intl. Workshop on Spoken Language Technologies for Under-Resourced Languages},
+pages	= {80--84}
+}
+
+
+@inproceedings{46978,
+title	= {Are All Languages Equally Hard to Language-Model?},
+author	= {Ryan Cotterell and Sebastian J. Mielke and Jason Eisner and Brian Roark},
+year	= {2018},
+URL	= {http://aclweb.org/anthology/N18-2085},
+booktitle	= {Proceedings of NAACL},
+pages	= {536--541}
+}
+
+
+@inproceedings{46733,
+title	= {Ask the Right Questions: Active Question Reformulation with Reinforcement Learning},
+author	= {Christian Buck and Jannis Bulian and Massimiliano Ciaramita and Wojciech Pawel Gajewski and Andrea Gesmundo and Neil Houlsby and Wei Wang},
+year	= {2018},
+URL	= {https://openreview.net/pdf?id=S1CChZ-CZ}
+}
+
+
+@proceedings{47325,
+title	= {AUEB-NLP at BioASQ 6: Document and Snippet Retrieval},
+editor	= {Georgios-Ioannis Brokos and Polyvios Liosis and Ryan McDonald and Dimitris Pappas and Ion Androutsopoulos},
+year	= {2018},
+URL	= {http://www2.aueb.gr/users/ion/docs/aueb_at_bioasq6.pdf},
+booktitle	= {Proceedings of the BioASQ Workshop}
+}
+
+
+@inproceedings{47346,
+title	= {Brahmic Schwa-Deletion with Neural Classifiers: Experiments with Bengali},
+author	= {Cibu C Johny and Martin Jansche},
+year	= {2018},
+URL	= {http://dx.doi.org/10.21437/SLTU.2018-54},
+booktitle	= {Proc. The 6th Intl. Workshop on Spoken Language Technologies for Under-Resourced Languages},
+pages	= {259--263}
+}
+
+
+@techreport{46859,
+title	= {Building a Conversational Agent Overnight with Dialogue Self-Play},
+author	= {Pararth Shah and Dilek Hakkani-Tur and Gokhan Tur and Abhinav Rastogi and Ankur Bapna and Neha Nayak and Larry Heck},
+year	= {2018}
+}
+
+
+@inproceedings{46929,
+title	= {Building Open Javanese and Sundanese Corpora for Multilingual Text-to-Speech},
+author	= {Jaka Aris Eko Wibawa and Supheakmungkol Sarin and Chen Fang Li and Knot Pipatsrisawat and Keshan Sodimana and Oddur Kjartansson and Alexander Gutkin and Martin Jansche and Linne Ha},
+year	= {2018},
+URL	= {http://www.lrec-conf.org/proceedings/lrec2018/pdf/8888.pdf},
+booktitle	= {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
+pages	= {1610--1614},
+address	= {7-12 May 2018, Miyazaki, Japan}
+}
+
+
+@proceedings{47437,
+title	= {Byte-level Machine Reading across Morphologically Varied Languages},
+editor	= {Tom Kenter and Llion Jones and Daniel Hewlett},
+year	= {2018},
+URL	= {https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16605/16145},
+booktitle	= {Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18)}
+}
+
+
+@inproceedings{46982,
+title	= {Capturing Ambiguity in Crowdsourcing Frame Disambiguation},
+author	= {Anca Dumitrache and Lora Aroyo and Chris Welty},
+year	= {2018},
+booktitle	= {HCOMP-2018: AAAI Human Computation Conference}
+}
+
+
+@inproceedings{46950,
+title	= {Community-Driven Crowdsourcing: Data Collection with Local Developers},
+author	= {Christina Funk and Michael Tseng and Ravindran Rajakumar and Linne Ha},
+year	= {2018},
+URL	= {http://www.lrec-conf.org/proceedings/lrec2018/pdf/8881.pdf},
+booktitle	= {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
+pages	= {1606--1609},
+address	= {Miyazaki, Japan}
+}
+
+
+@inproceedings{47380,
+title	= {Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning},
+author	= {Piyush Sharma and Nan Ding and Sebastian Goodman and Radu Soricut},
+year	= {2018}
+}
+
+
+@inproceedings{47374,
+title	= {Content Explorer: Recommending Novel Entities for a Document Writer},
+author	= {Michal Lukasik and Richard Zens},
+year	= {2018},
+booktitle	= {Proceedings of Empirical Methods of Natural Language Processing, EMNLP, 2018.}
+}
+
+
+@inproceedings{47384,
+title	= {Contextual speech recognition in end-to-end neural network systems using beam search},
+author	= {Ian Williams and Anjuli Kannan and Petar Aleksic and David Rybach and Tara Sainath},
+year	= {2018},
+URL	= {https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2416.pdf}
+}
+
+
+@inproceedings{47392,
+title	= {Crowd-Sourced Speech Corpora for Javanese, Sundanese,  Sinhala, Nepali, and Bangladeshi Bengali},
+author	= {Oddur Kjartansson and Supheakmungkol Sarin and Knot Pipatsrisawat and Martin Jansche and Linne Ha},
+year	= {2018},
+URL	= {http://dx.doi.org/10.21437/SLTU.2018-11},
+booktitle	= {Proc. The 6th Intl. Workshop on Spoken Language Technologies for Under-Resourced Languages},
+pages	= {52--55}
+}
+
+
+@article{46716,
+title	= {Crowdsourcing Ground Truth for Medical Relation Extraction},
+author	= {Anca Dumitrache and Chris Welty and Lora Aroyo},
+year	= {2018},
+journal	= {ACM Transactions on Interactive Intelligent Systems},
+volume	= {8:1}
+}
+
+
+@proceedings{47394,
+title	= {Crowdsourcing Semantic Label Propagation in Relation Classification},
+editor	= {Anca Dumitrache and Lora Aroyo and Chris Welty},
+year	= {2018},
+booktitle	= {EMNLP 2018 Workshop on Fact Extraction and Verification (FEVER 18)}
+}
+
+
+@proceedings{47324,
+title	= {Deep Relevance Ranking using Enhanced Document-Query Interactions},
+editor	= {Ryan McDonald and George Brokos and Ion Androutsopoulos},
+year	= {2018},
+URL	= {http://www2.aueb.gr/users/ion/docs/emnlp2018.pdf},
+booktitle	= {Proceedings of EMNLP}
+}
+
+
+@inproceedings{47117,
+title	= {Embedding Text in Hyperbolic Spaces},
+author	= {Bhuwan Dhingra and Chris Shallue and Mohammad Norouzi and Andrew Dai and George Dahl},
+year	= {2018},
+URL	= {https://arxiv.org/pdf/1806.04313.pdf}
+}
+
+
+@inproceedings{46930,
+title	= {FonBund: A Library for Combining Cross-lingual Phonological Segment Data},
+author	= {Alexander Gutkin and Martin Jansche and Tatiana Merkulova},
+year	= {2018},
+URL	= {http://www.lrec-conf.org/proceedings/lrec2018/pdf/8889.pdf},
+booktitle	= {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
+pages	= {2236--2240},
+address	= {7-12 May 2018, Miyazaki, Japan}
+}
+
+
+@inproceedings{47323,
+title	= {Identifying Well-formed Natural Language Questions},
+author	= {Manaal Faruqui and Dipanjan Das},
+year	= {2018},
+booktitle	= {Proc. of EMNLP}
+}
+
+
+@inproceedings{46799,
+title	= {Improving homograph disambiguation with supervised machine learning},
+author	= {Gleb Mazovetskiy and Kyle Gorman and Vitaly Nikolaev},
+year	= {2018},
+URL	= {http://www.lrec-conf.org/proceedings/lrec2018/pdf/8880.pdf},
+booktitle	= {LREC}
+}
+
+
+@incollection{47471,
+title	= {Linguistically-Informed Self-Attention for Semantic Role Labeling},
+author	= {Emma Strubell and Pat Verga and Daniel Andor and David Weiss and Andrew McCallum},
+year	= {2018},
+URL	= {https://arxiv.org/pdf/1804.08199.pdf}
+}
+
+
+@incollection{46944,
+title	= {Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings},
+author	= {Bernd Bohnet and Ryan Mcdonald and Gonçalo Simões and Daniel Andor and Emily Pitler and Joshua Maynez},
+year	= {2018},
+URL	= {https://arxiv.org/pdf/1805.08237.pdf},
+address	= {Melbourne, Australia}
+}
+
+
+@inproceedings{47051,
+title	= {Multi-Mention Learning for Reading Comprehension with Neural Cascades},
+author	= {Swabha Swayamdipta and Ankur Parikh and Tom Kwiatkowski},
+year	= {2018}
+}
+
+
+@inproceedings{46932,
+title	= {Multilingual Multi-class Sentiment Classification Using Convolutional Neural Networks},
+author	= {Mohammed Attia and Younes Samih and Ali Elkahky and Laura Kallmeyer},
+year	= {2018},
+URL	= {http://www.lrec-conf.org/proceedings/lrec2018/pdf/149.pdf},
+pages	= {635--640},
+address	= {Miyazaki, Japan}
+}
+
+
+@inproceedings{47038,
+title	= {No Need For A Lexicon? Evaluating The Value Of The Pronunciation Lexica In End-To-End Models},
+author	= {Tara Sainath and Rohit Prabhavalkar and Shankar Kumar and Seungji Lee and Anjuli Kannan and David Rybach and Vlad Schogol and Patrick Nguyen and Bo Li and Yonghui Wu and Zhifeng Chen and Chung-Cheng Chiu},
+year	= {2018},
+URL	= {https://pdfs.semanticscholar.org/a0ac/2c75df36dcc6c5997a236571a41ca822005c.pdf}
+}
+
+
+@inproceedings{47311,
+title	= {Part-of-Speech Tagging for Code-Switched, Transliterated Texts without Explicit Language Identification},
+author	= {Kelsey Ball and Dan Garrette},
+year	= {2018},
+booktitle	= {Proceedings of EMNLP}
+}
+
+
+@inproceedings{47017,
+title	= {Points, Paths, and Playscapes: Large-scale Spatial Language Understanding Tasks Set in the Real World},
+author	= {Jason Baldridge and Tania Bedrax-Weiss and Daphne Luong and Srini Narayanan and Bo Pang and Fernando Pereira and Radu Soricut and Michael Tseng and Yuan Zhang},
+year	= {2018},
+URL	= {http://aclweb.org/anthology/W18-1406v2},
+booktitle	= {Proceedings of the First International Workshop on Spatial Language Understanding},
+pages	= {46--52},
+address	= {New Orleans, Louisiana, USA}
+}
+
+
+@inproceedings{47342,
+title	= {Predicting the Features of World Atlas of Language Structures from Speech},
+author	= {Alexander Gutkin and Tatiana Merkulova and Martin Jansche},
+year	= {2018},
+URL	= {http://dx.doi.org/10.21437/SLTU.2018-51},
+booktitle	= {Proc. The 6th Intl. Workshop on Spoken Language Technologies for Under-Resourced Languages},
+pages	= {243--247}
+}
+
+
+@inproceedings{47326,
+title	= {Revisiting Character-Based Neural Machine Translation with Capacity and Compression},
+author	= {Colin Andrew Cherry and George Foster and Ankur Bapna and Orhan Firat and Wolfgang Macherey},
+year	= {2018},
+booktitle	= {Empirical Methods in Natural Language Processing}
+}
+
+
+@inproceedings{47337,
+title	= {Self-Governing Neural Networks for On-Device Short Text Classification},
+author	= {Sujith Ravi and Zornitsa Kozareva},
+year	= {2018},
+booktitle	= {Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)}
+}
+
+
+@inproceedings{46664,
+title	= {SHAPED: Shared-Private Encoder-Decoder for Text Style Adaptation},
+author	= {Ye Zhang and Nan Ding and Radu Soricut},
+year	= {2018}
+}
+
+
+@inproceedings{47344,
+title	= {Text Normalization for Bangla, Khmer, Nepali, Javanese, Sinhala,  and Sundanese TTS Systems},
+author	= {Keshan Sodimana and Pasindu De Silva and Richard Sproat and A Theeraphol and Chen Fang Li and Alexander Gutkin and Supheakmungkol Sarin and Knot Pipatsrisawat},
+year	= {2018},
+booktitle	= {6th International Workshop on Spoken Language Technologies for Under-Resourced Languages (SLTU-2018)},
+pages	= {147-151},
+address	= {29-31 August 2018, Gurugram, India}
+}
+
+
+@inproceedings{46895,
+title	= {The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation},
+author	= {Ankur Bapna and George Foster and Llion Jones and Macduff Hughes and Melvin Johnson and Mia Chen and Mike Schuster and Niki J. Parmar and Orhan Firat and Wolfgang Macherey and Yonghui Wu and Zhifeng Chen},
+year	= {2018},
+URL	= {https://arxiv.org/abs/1804.09849}
+}
+
+
+@incollection{47213,
+title	= {The First Multilingual Surface Realisation Shared Task (SR'18): Overview and Evaluation Results},
+author	= {Anya Belz and Bernd Bohnet and Emily Pitler and Leo Wanner and Simone Mille},
+year	= {2018},
+address	= {Melbourne}
+}
+
+
+@inproceedings{46931,
+title	= {The Morpho-syntactic Annotation of Animacy for a Dependency Parser},
+author	= {Mohammed Attia and Vitaly Nikolaev and Ali Elkahky},
+year	= {2018},
+URL	= {http://www.lrec-conf.org/proceedings/lrec2018/pdf/150.pdf},
+pages	= {2607--2615},
+address	= {Miyazaki, Japan}
+}
+
+
+@inproceedings{47357,
+title	= {Training Deeper Neural Machine Translation Models with Transparent Attention},
+author	= {Ankur Bapna and Mia Chen and Orhan Firat and Yuan Cao and Yonghui Wu},
+year	= {2018},
+URL	= {https://arxiv.org/pdf/1808.07561.pdf}
+}
+
+
+@inproceedings{47486,
+title	= {Underspecified Universal Dependency Structures as Inputs for Multilingual Surface Realisation},
+author	= {Anya Belz and Bernd Bohnet and Leo Wanner and Simone Mille},
+year	= {2018}
+}
+
+
+@inproceedings{46808,
+title	= {Universal Sentence Encoder},
+author	= {Daniel Cer and Yinfei Yang and Sheng-yi Kong and Nan Hua and Nicole Lyn Untalan Limtiaco and Rhomni  St. John and Noah Constant and Mario Guajardo-Céspedes and Steve Yuan and Chris Tar and Yun-hsuan Sung and Brian Strope and Ray Kurzweil},
+year	= {2018},
+URL	= {https://arxiv.org/abs/1803.11175},
+note	= {In submission},
+booktitle	= {In submission to: EMNLP demonstration},
+address	= {Brussels, Belgium}
+}
+
+
+@inproceedings{46977,
+title	= {Voice Builder: A Tool for Building Text-To-Speech Voices},
+author	= {Pasindu De Silva and A Theeraphol and Hao Tang and Knot Pipatsrisawat},
+year	= {2018},
+booktitle	= {11th edition of the Language Resources and Evaluation Conference (LREC),  7-12 May 2018},
+address	= {Miyazaki, Japan}
+}
+
+
+@inproceedings{47321,
+title	= {WikiAtomicEdits: A Multilingual Corpus of Atomic Edits for Modeling Inference and Discourse},
+author	= {Manaal Faruqui and Ellie Pavlick and Ian Tenney and Dipanjan Das},
+year	= {2018},
+booktitle	= {Proc. of EMNLP}
+}
+
+
+@inproceedings{45995,
+title	= {A Neural Architecture for Dialectal Arabic Segmentation},
+author	= {Younes Samih and Mohammed Attia and Mohamed Eldesouki and Hamdy Mubarak and Ahmed Abdelali and Laura Kallmeyer and Kareem Darwish},
+year	= {2017},
+URL	= {http://www.aclweb.org/anthology/W/W17/W17-1306.pdf},
+pages	= {46--54},
+address	= {Valencia, Spain}
+}
+
+
+@article{46258,
+title	= {A Polynomial-Time Dynamic Programming Algorithm for Phrase-Based Decoding with a Fixed Distortion Limit},
+author	= {Yin-Wen Chang and Michael Collins},
+year	= {2017},
+URL	= {https://www.transacl.org/ojs/index.php/tacl/article/view/1020/226},
+journal	= {Transactions of the Association for Computational Linguistics (TACL)},
+pages	= {59-71},
+volume	= {5}
+}
+
+
+@inproceedings{46951,
+title	= {An Expanded Taxonomy of Semiotic Classes for Text Normalization},
+author	= {Daan van Esch and Richard Sproat},
+year	= {2017},
+booktitle	= {Proceedings of Interspeech 2017}
+}
+
+
+@inproceedings{46491,
+title	= {An RNN Model of Text Normalization},
+author	= {Navdeep Jaitly and Richard Sproat},
+year	= {2017},
+URL	= {https://arxiv.org/pdf/1611.00068.pdf}
+}
+
+
+@inproceedings{46659,
+title	= {Analyzing Language Learned by an Active Question Answering Agent},
+author	= {Christian Buck and Jannis Bulian and Massimiliano Ciaramita and Wojciech Gajewski and Andrea Gesmundo and Neil Houlsby and Wei Wang},
+year	= {2017},
+URL	= {https://arxiv.org/pdf/1801.07537.pdf}
+}
+
+
+@inproceedings{46439,
+title	= {Approaches for Neural-Network Language Model Adaptation},
+author	= {Fadi Biadsy and Michael Alexander Nirschl and Min Ma and Shankar Kumar},
+year	= {2017},
+address	= {Stockholm, Sweden}
+}
+
+
+@inproceedings{46143,
+title	= {Areal and Phylogenetic Features for Multilingual Speech Synthesis},
+author	= {Alexander Gutkin and Richard Sproat},
+year	= {2017},
+booktitle	= {Proc. of Interspeech 2017},
+pages	= {2078--2082},
+address	= {August 20–24, 2017, Stockholm, Sweden}
+}
+
+
+@inproceedings{46201,
+title	= {Attention is All You Need},
+author	= {Ashish Vaswani and Noam Shazeer and Niki Parmar and Jakob Uszkoreit and Llion Jones and Aidan N. Gomez and Lukasz Kaiser and Illia Polosukhin},
+year	= {2017},
+URL	= {https://arxiv.org/pdf/1706.03762.pdf}
+}
+
+
+@inproceedings{46393,
+title	= {CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies},
+author	= {Daniel Zeman and Martin Popel and Milan Straka and Jan Hajic and Joakim Nivre and Filip Ginter and Juhani Luotolahti and Sampo Pyysalo and Slav Petrov and Martin Potthast and Francis Tyers and et al.},
+year	= {2017},
+URL	= {http://aclweb.org/anthology/K/K17/K17-3001.pdf},
+booktitle	= {Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies}
+}
+
+
+@article{46057,
+title	= {Efficient Natural Language Response Suggestion for Smart Reply},
+author	= {Matthew Henderson and Rami Al-Rfou and Brian Strope and Yun-hsuan Sung and László Lukács and Ruiqi Guo and Sanjiv Kumar and Balint Miklos and Ray Kurzweil},
+year	= {2017},
+journal	= {ArXiv e-prints}
+}
+
+
+@inproceedings{46721,
+title	= {False Positive and Cross-relation Signals in Distant Supervision Data},
+author	= {Anca Dumitrache and Lora Aroyo and Chris Welty},
+year	= {2017},
+URL	= {https://arxiv.org/abs/1711.05186},
+booktitle	= {NIPS-2017 Workshop - Automatic Knowledge-Base Construction},
+address	= {http://www.akbc.ws/2017/}
+}
+
+
+@inproceedings{45936,
+title	= {Generating High-Quality and Informative Conversation Responses with Sequence-to-Sequence Models},
+author	= {Louis Shao and Stephan Gouws and Denny Britz and Anna Goldie and Brian Strope and Ray Kurzweil},
+year	= {2017},
+URL	= {https://arxiv.org/abs/1701.03185}
+}
+
+
+@misc{46011,
+title	= {Language Modeling in the Era of Abundant Data},
+author	= {Ciprian Chelba},
+year	= {2017}
+}
+
+
+@inproceedings{46277,
+title	= {Learning from Relatives: Unified Dialectal Arabic Segmentation},
+author	= {Younes Samih and Mohamed Eldesouki and Mohammed Attia and Ahmed Abdelali and Hamdy Mubarak and Kareem Darwish and Laura Kallmeyer},
+year	= {2017},
+address	= {Vancouver, Canada}
+}
+
+
+@inproceedings{46490,
+title	= {Learning Recurrent Span Representations for Extractive Question Answering},
+author	= {Kenton Lee and Shimi Salant and Tom Kwiatkowski and Ankur Parikh and Dipanjan Das and Jonathan Berant},
+year	= {2017},
+URL	= {https://arxiv.org/pdf/1611.01436.pdf},
+booktitle	= {arXiv 1611.01436}
+}
+
+
+@article{45678,
+title	= {Multilingual Metaphor Processing: Experiments with Semi-Supervised and Unsupervised Learning},
+author	= {Ekaterina Shutova and Lin Sun and Dario Gutierrez and Patricia Lichtenstein and Srini Narayanan},
+year	= {2017},
+URL	= {https://www.mitpressjournals.org/doi/10.1162/COLI_a_00275},
+note	= {(to appear)},
+journal	= {Computational Linguistics}
+}
+
+
+@techreport{46183,
+title	= {N-gram Language Modeling using Recurrent Neural Network Estimation},
+author	= {Ciprian Chelba and Mohammad Norouzi and Samy Bengio},
+year	= {2017},
+URL	= {https://arxiv.org/abs/1703.10724},
+institution	= {Google}
+}
+
+
+@inproceedings{46408,
+title	= {Natural Language Processing with Small Feed-Forward Networks},
+author	= {Jan A. Botha and Emily Pitler and Ji Ma and Anton Bakalov and Alex Salcianu and David Weiss and Ryan Mcdonald and Slav Petrov},
+year	= {2017},
+URL	= {http://aclweb.org/anthology/D/D17/D17-1309.pdf},
+note	= {Supplementary material: http://aclweb.org/anthology/attachments/D/D17/D17-1309.Attachment.zip},
+booktitle	= {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing},
+pages	= {2879–2885},
+address	= {Copenhagen, Denmark}
+}
+
+
+@inproceedings{46489,
+title	= {Neural Paraphrase Identification of Questions with Noisy Pretraining},
+author	= {Gaurav Singh Tomar and Thyago Duque and Oscar Täckström and Jakob Uszkoreit and Dipanjan Das},
+year	= {2017},
+URL	= {https://arxiv.org/pdf/1704.04565.pdf},
+booktitle	= {Proceedings of the First Workshop on Subword and Character Level Models in NLP}
+}
+
+
+@inproceedings{46517,
+title	= {On Lattice Generation for Large Vocabulary Speech Recognition},
+author	= {David Rybach and Johan Schalkwyk and Michael Riley},
+year	= {2017},
+booktitle	= {IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)},
+address	= {Okinawa, Japan}
+}
+
+
+@manual{46046,
+title	= {PoS, Morphology and Dependencies Annotation Guidelines for Arabic},
+author	= {Mohammed Attia and Ryan Mcdonald and Slav Petrov and Tolga Kayadelen},
+year	= {2017}
+}
+
+
+@inproceedings{46231,
+title	= {SemEval-2017 Task 1: Semantic Textual Similarity Multilingual and Crosslingual Focused Evaluation},
+author	= {Daniel Cer and Mona Diab and Eneko Agirre and Iñigo Lopez-Gazpio and Lucia Specia},
+year	= {2017},
+URL	= {http://nlp.arizona.edu/SemEval-2017/pdf/SemEval001.pdf},
+booktitle	= {Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017)},
+pages	= {1--14},
+address	= {Vancouver, Canada}
+}
+
+
+@inproceedings{47215,
+title	= {Shared Task Proposal on Multilingual Surface Realization using Universal Dependency Trees},
+author	= {Anya Belz and Bernd Bohnet and Leo Wanner and Simone Mille},
+year	= {2017},
+pages	= {4},
+address	= {Santiago de Compostela, Spain}
+}
+
+
+@inproceedings{46731,
+title	= {Shared Task Proposal: Multilingual Surface Realization Using Universal Dependency Trees},
+author	= {Anya Belz and Bernd Bohnet and Emily Pitler and Leo Wanner and Simone Mille},
+year	= {2017},
+URL	= {http://aclweb.org/anthology/W17-3517},
+booktitle	= {Proceedings of the 10th International Conference on Natural Language Generation},
+pages	= {120--123},
+address	= {Santiago de Compostela, Spain}
+}
+
+
+@techreport{46431,
+title	= {SLING: A framework for frame semantic parsing},
+author	= {Michael Ringgaard and Rahul Gupta and Fernando C. N. Pereira},
+year	= {2017},
+URL	= {https://arxiv.org/abs/1710.07032}
+}
+
+
+@inproceedings{46374,
+title	= {Source-Side Left-to-Right or Target-Side Left-to-Right? An Empirical Comparison of Two Phrase-Based Decoding Algorithms},
+author	= {Yin-Wen Chang and Michael Collins},
+year	= {2017},
+URL	= {http://aclweb.org/anthology/D17-1157},
+booktitle	= {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing},
+pages	= {1496–1500}
+}
+
+
+@proceedings{46135,
+title	= {Sparse Non-negative Matrix Language Modeling: Maximum Entropy Flexibility on the Cheap},
+editor	= {Ciprian Chelba and Diamantino Caseiro and Fadi Biadsy},
+year	= {2017},
+booktitle	= {Proceedings of Interspeech 2017},
+pages	= {2725-2729},
+address	= {Stockholm, Sweden}
+}
+
+
+@inproceedings{46311,
+title	= {To Plan or Not to Plan? Sequence to sequence generation for language generation in dialogue systems},
+author	= {Neha Nayak and Dilek Hakkani-Tur and Marilyn Walker and Larry Heck},
+year	= {2017}
+}
+
+
+@inproceedings{46275,
+title	= {Transliterated mobile keyboard input via weighted finite-state transducers},
+author	= {Lars Hellsten and Brian Roark and Prasoon Goyal and Cyril Allauzen and Francoise Beaufays and Tom Ouyang and Michael Riley and David Rybach},
+year	= {2017},
+URL	= {http://aclweb.org/anthology/W17-4002},
+booktitle	= {Proceedings of the 13th International Conference on Finite State Methods and Natural Language Processing (FSMNLP)}
+}
+
+
+@inproceedings{46142,
+title	= {Uniform Multilingual Multi-Speaker Acoustic Model for Statistical Parametric Speech Synthesis of Low-Resourced Languages},
+author	= {Alexander Gutkin},
+year	= {2017},
+booktitle	= {Proc. of Interspeech 2017},
+pages	= {2183--2187},
+address	= {August 20–24, Stockholm, Sweden}
+}
+
+
+@inproceedings{46392,
+title	= {Universal Semantic Parsing},
+author	= {Siva Reddy and Oscar Tackstrom and Slav Petrov and Mark Steedman and Mirella Lapata},
+year	= {2017},
+URL	= {http://aclweb.org/anthology/D/D17/D17-1009.pdf},
+booktitle	= {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)}
+}
+
+
+@inproceedings{45601,
+title	= {A Decomposable Attention Model for Natural Language Inference},
+author	= {Ankur P. Parikh and Oscar Tackstrom and Dipanjan Das and Jakob Uszkoreit},
+year	= {2016},
+URL	= {https://arxiv.org/abs/1606.01933},
+booktitle	= {Proceedings of EMNLP}
+}
+
+
+@inproceedings{45537,
+title	= {A Piggyback System for Joint Entity Mention Detection and Linking in Web Queries},
+author	= {Hinrich Schuetze and Marco Cornolti and Massimiliano Ciaramita and Paolo Ferragina and Stefan Rued},
+year	= {2016},
+booktitle	= {WWW 2016}
+}
+
+
+@inproceedings{45543,
+title	= {Annotating Topic Development in Information Seeking Queries},
+author	= {Marta Andersson and Adnan Öztürel and Silvia Pareti},
+year	= {2016},
+booktitle	= {Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016)},
+address	= {Portorož, Slovenia}
+}
+
+
+@inproceedings{45744,
+title	= {AutoMOS: Learning a non-intrusive assessor of naturalness-of-speech},
+author	= {Brian Patton and Yannis Agiomyrgiannakis and Michael Terry and Kevin Wilson and Rif A. Saurous and D. Sculley},
+year	= {2016},
+URL	= {https://arxiv.org/abs/1611.09207},
+booktitle	= {NIPS 2016 End-to-end Learning for Speech and Audio Processing Workshop}
+}
+
+
+@proceedings{46766,
+title	= {Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors},
+editor	= {Radu Soricut and Nan Ding},
+year	= {2016},
+booktitle	= {TBD},
+address	= {https://arxiv.org/abs/1612.04342}
+}
+
+
+@incollection{45301,
+title	= {Building Statistical Parametric Multi-speaker Synthesis for Bangladeshi Bangla},
+author	= {Alexander Gutkin and Linne Ha and Martin Jansche and Oddur Kjartansson and Knot Pipatsrisawat and Richard Sproat},
+year	= {2016},
+URL	= {http://www.sciencedirect.com/science/article/pii/S1877050916300631},
+note	= {Edited by Sakriani Sakti, Mirna Adriani, Ayu Purwarianti, Laurent Besacier, Eric Castelli and Pascal Nocera},
+booktitle	= {SLTU-2016 5th Workshop on Spoken Language Technologies for Under-resourced languages, 09-12 May 2016, Yogyakarta, Indonesia; Procedia Computer Science},
+pages	= {194--200}
+}
+
+
+@inproceedings{45737,
+title	= {CogALex-V Shared Task: GHHH - Detecting Semantic Relations via Word Embeddings},
+author	= {Mohammed Attia and Suraj Maharjan and Younes Samih and Laura Kallmeyer and Thamar Solorio},
+year	= {2016},
+URL	= {https://sites.google.com/site/cogalex2016/home/accepted-papers/CogALex-V_Proceedings.pdf#page=100},
+pages	= {86-91},
+address	= {Osaka, Japan}
+}
+
+
+@inproceedings{45395,
+title	= {Collective Entity Resolution with Multi-Focal Attention},
+author	= {Amir Globerson and Nevena Lazic and Soumen Chakrabarti and Amarnag Subramanya and Michael Ringaard and Fernando Pereira},
+year	= {2016},
+booktitle	= {ACL}
+}
+
+
+@inproceedings{45482,
+title	= {Contextual LSTM: A Step towards Hierarchical Language Modeling},
+author	= {Shalini Ghosh and Oriol Vinyals and Brian Strope and Scott Roy and Tom Dean and Larry Heck},
+year	= {2016},
+URL	= {http://arxiv.org/abs/1602.06291}
+}
+
+
+@inproceedings{45547,
+title	= {Contextual prediction models for speech recognition},
+author	= {Yoni Halpern and Keith Hall and Vlad Schogol and Michael Riley and Brian Roark and Gleb Skobeltsyn and Martin Baeuml},
+year	= {2016},
+URL	= {http://www.isca-speech.org/archive/Interspeech_2016/pdfs/1358.PDF},
+booktitle	= {Proceedings of Interspeech 2016}
+}
+
+
+@techreport{45465,
+title	= {Conversational Contextual Cues: The Case of Personalization and History for Response Ranking},
+author	= {Rami Al-Rfou and Marc Pickett and Javier Snaider and Yun-hsuan Sung and Brian Strope},
+year	= {2016},
+URL	= {https://arxiv.org/abs/1606.00372}
+}
+
+
+@inproceedings{45387,
+title	= {Cross-Lingual Morphological Tagging for Low-Resource Languages},
+author	= {Jan Buys and Jan A. Botha},
+year	= {2016},
+URL	= {http://aclweb.org/anthology/P/P16/P16-1184.pdf},
+booktitle	= {Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+pages	= {1954--1964},
+address	= {Berlin, Germany}
+}
+
+
+@inproceedings{45546,
+title	= {Cross-lingual projection for class-based language models},
+author	= {Beat Gfeller and Vlad Schogol and Keith Hall},
+year	= {2016},
+URL	= {https://www.aclweb.org/anthology/P/P16/P16-2014.pdf},
+booktitle	= {ACL2016}
+}
+
+
+@inproceedings{45378,
+title	= {Crowdsourcing a Gold Standard for Medical Relation  Extraction with CrowdTruth},
+author	= {Anca Dumitrache and Chris Welty and Lora Aroyo},
+year	= {2016},
+note	= {https://sites.google.com/a/stern.nyu.edu/collective-intelligence-conference/},
+booktitle	= {Proceedings of the 2016 Collective Intelligence Conference}
+}
+
+
+@inproceedings{45528,
+title	= {Distributed representation and estimation of WFST-based n-gram models},
+author	= {Cyril Allauzen and Michael Riley and Brian Roark},
+year	= {2016},
+URL	= {http://aclweb.org/anthology/W16-2404},
+booktitle	= {Proceedings of the ACL Workshop on Statistical NLP and Weighted Automata (StatFSM)},
+pages	= {32--41}
+}
+
+
+@inproceedings{45677,
+title	= {Explicit Fine grained Syntactic and Semantic Annotation of the Idafa Construction in Arabic},
+author	= {Abdelati Hawwari and Mohammed Attia and Mahmoud Ghoneim and Mona Diab},
+year	= {2016},
+URL	= {http://www.lrec-conf.org/proceedings/lrec2016/pdf/1172_Paper.pdf},
+booktitle	= {LREC 2016},
+address	= {Arabic}
+}
+
+
+@inproceedings{45636,
+title	= {Exploring the Steps of Verb Phrase Ellipsis},
+author	= {Zhengzhong Liu and Edgar Gonzàlez and Dan Gillick},
+year	= {2016},
+URL	= {http://nlp.ipipan.waw.pl/Bib/ogr:ng:16:corbon.pdf#page=42},
+booktitle	= {Workshop on Coreference Resolution Beyond OntoNotes at NAACL 2016}
+}
+
+
+@inproceedings{45484,
+title	= {Generalized Transition-based Dependency Parsing},
+author	= {Bernd Bohnet and Emily Pitler and Ji Ma and Ryan Mcdonald},
+year	= {2016},
+booktitle	= {Association for Computational Linguistics (ACL)}
+}
+
+
+@inproceedings{45377,
+title	= {Globally Normalized Transition-Based Neural Networks},
+author	= {Daniel Andor and Chris Alberti and David Weiss and Aliaksei Severyn and Alessandro Presta and Kuzman Ganchev and Slav Petrov and Michael Collins},
+year	= {2016},
+URL	= {https://arxiv.org/abs/1603.06042},
+booktitle	= {Association for Computational Linguistics}
+}
+
+
+@techreport{45733,
+title	= {Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation},
+author	= {Melvin Johnson and Mike Schuster and Quoc V. Le and Maxim Krikun and Yonghui Wu and Zhifeng Chen and Nikhil Thorat and Fernanda Viégas and Martin Wattenberg and Greg Corrado and Macduff Hughes and Jeffrey Dean},
+year	= {2016},
+URL	= {https://arxiv.org/abs/1611.04558},
+institution	= {Google}
+}
+
+
+@article{45610,
+title	= {Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation},
+author	= {Yonghui Wu and Mike Schuster and Zhifeng Chen and Quoc V. Le and Mohammad Norouzi and Wolfgang Macherey and Maxim Krikun and Yuan Cao and Qin Gao and Klaus Macherey and Jeff Klingner and Apurva Shah and Melvin Johnson and Xiaobing Liu and Lukasz Kaiser and Stephan Gouws and Yoshikiyo Kato and Taku Kudo and Hideto Kazawa and Keith Stevens and George Kurian and Nishant Patil and Wei Wang and Cliff Young and Jason Smith and Jason Riesa and Alex Rudnick and Oriol Vinyals and Greg Corrado and Macduff Hughes and Jeffrey Dean},
+year	= {2016},
+URL	= {http://arxiv.org/abs/1609.08144},
+journal	= {CoRR},
+volume	= {abs/1609.08144}
+}
+
+
+@proceedings{45856,
+title	= {Improving Chinese syntactic analysis through more consistent treebank annotation},
+editor	= {Daisuke Kawahara and Mo Shen},
+year	= {2016},
+pages	= {298-308}
+}
+
+
+@inproceedings{45483,
+title	= {Learning N-gram Language Models from Uncertain Data},
+author	= {Vitaly Kuznetsov and Hank Liao and Mehryar Mohri and Michael Riley and Brian Roark},
+year	= {2016},
+booktitle	= {Interspeech}
+}
+
+
+@inproceedings{45743,
+title	= {Linguistic Wisdom from the Crowd},
+author	= {Nancy Chang and Russell Lee-Goldman and Michael Tseng},
+year	= {2016},
+URL	= {http://www.aaai.org/ocs/index.php/HCOMP/HCOMP15/paper/viewFile/11737/12331},
+booktitle	= {Crowdsourcing Breakthroughs for Language Technology Applications}
+}
+
+
+@article{45228,
+title	= {Morpho-syntactic Lexicon Generation Using Graph-based Semi-supervised Learning},
+author	= {Manaal Faruqui and Ryan McDonald and Radu Soricut},
+year	= {2016},
+URL	= {http://www.cs.cmu.edu/~mfaruqui/papers/tacl16-lexicon.pdf},
+journal	= {TACL}
+}
+
+
+@inproceedings{45676,
+title	= {Multilingual Code-switching Identification via LSTM Recurrent Neural Networks},
+author	= {Younes Samih and Suraj Maharjan and Mohammed Attia and Laura Kallmeyer and Thamar Solorio},
+year	= {2016},
+URL	= {http://www.aclweb.org/anthology/W/W16/W16-58.pdf#page=62},
+booktitle	= {Proceedings of the Second Workshop on Computational Approaches to Code Switching,},
+pages	= {50--59},
+address	= {Austin, TX}
+}
+
+
+@inproceedings{45170,
+title	= {Multilingual Language Processing From Bytes},
+author	= {Dan Gillick and Cliff Brunk and Oriol Vinyals and Amarnag Subramanya},
+year	= {2016},
+booktitle	= {NAACL}
+}
+
+
+@inproceedings{44631,
+title	= {Personalized Speech Recognition On Mobile Devices},
+author	= {Ian McGraw and Rohit Prabhavalkar and Raziel Alvarez and Montse Gonzalez Arenas and Kanishka Rao and David Rybach and Ouais Alsharif and Hasim Sak and Alexander Gruenstein and Françoise Beaufays and Carolina Parada},
+year	= {2016},
+booktitle	= {Proceedings of International Conference on Acoustics, Speech and Signal Processing (ICASSP)}
+}
+
+
+@inproceedings{45559,
+title	= {Pynini: A Python library for weighted finite-state grammar compilation},
+author	= {Kyle Gorman},
+year	= {2016},
+booktitle	= {Proceedings of the ACL Workshop on Statistical NLP and Weighted Automata},
+pages	= {75-80}
+}
+
+
+@proceedings{45564,
+title	= {Recent Advances in Google Real-time HMM-driven Unit Selection Synthesizer},
+editor	= {Xavi Gonzalvo and Siamak Tazari and Chun-an Chan and Markus Becker and Alexander Gutkin and Hanna Silen},
+year	= {2016},
+URL	= {http://www.isca-speech.org/archive/Interspeech_2016/pdfs/0264.PDF},
+booktitle	= {INTERSPEECH 2016},
+pages	= {2238--2242},
+address	= {Sep 8-12, San Francisco, USA}
+}
+
+
+@inproceedings{46556,
+title	= {SemEval-2016 Task 1: Semantic Textual Similarity, Monolingual and Cross-Lingual Evaluation},
+author	= {Eneko Agirre and Carmen Banea and Daniel Cer and Mona Diab and Aitor Gonzalez-Agirre and Rada Mihalcea and German Rigau and Janyce Wiebe},
+year	= {2016},
+URL	= {http://www.aclweb.org/anthology/S16-1081},
+booktitle	= {Proceedings of the 10th International Workshop on Semantic Evaluation (SemEval-2016)},
+pages	= {497--511},
+address	= {San Diego, California}
+}
+
+
+@inproceedings{45397,
+title	= {Sense Anaphoric Pronouns: Am I One?},
+author	= {Marta Recasens and Zhichao Hu and Olivia Rhinehart},
+year	= {2016},
+URL	= {http://aclweb.org/anthology/W/W16/W16-0701.pdf},
+booktitle	= {Proceedings of the Workshop on Coreference Resolution Beyond OntoNotes (CORBON 2016)},
+pages	= {1-6}
+}
+
+
+@inproceedings{45189,
+title	= {Smart Reply: Automated Response Suggestion for Email},
+author	= {Anjuli Kannan and Karol Kurach and Sujith Ravi and Tobias Kaufman and Balint Miklos and Greg Corrado and Andrew Tomkins and Laszlo Lukacs and Marina Ganea and Peter Young and Vivek Ramavajjala},
+year	= {2016},
+URL	= {https://arxiv.org/pdf/1606.04870v1.pdf},
+booktitle	= {Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (2016).}
+}
+
+
+@article{45587,
+title	= {Sparse Non-negative Matrix Language Modeling},
+author	= {Joris Pelemans and Noam Shazeer and Ciprian Chelba},
+year	= {2016},
+URL	= {https://transacl.org/ojs/index.php/tacl/article/view/561},
+journal	= {Transactions of the Association for Computational Linguistics},
+pages	= {329--342},
+volume	= {4}
+}
+
+
+@misc{45647,
+title	= {Sparse Non-negative Matrix Language Modeling (EMNLP presentation)},
+author	= {Joris Pelemans and Noam Shazeer and Ciprian Chelba},
+year	= {2016}
+}
+
+
+@inproceedings{45376,
+title	= {Stack-propagation: Improved Representation Learning for Syntax},
+author	= {David Weiss and Yuan Zhang},
+year	= {2016},
+URL	= {http://arxiv.org/pdf/1603.06598.pdf},
+booktitle	= {ACL2016}
+}
+
+
+@inproceedings{45738,
+title	= {The Power of Language Music: Arabic Lemmatization through Patterns},
+author	= {Mohammed Attia and Ayah Zirizkly and Mona Diab},
+year	= {2016},
+URL	= {https://sites.google.com/site/cogalex2016/home/accepted-papers/CogALex-V_Proceedings.pdf#page=54},
+pages	= {40-50},
+address	= {Osaka, Japan}
+}
+
+
+@article{44858,
+title	= {Transforming Dependency Structures to Logical Forms for Semantic Parsing},
+author	= {Siva Reddy and Oscar Täckström and Michael Collins and Tom Kwiatkowski and Dipanjan Das and Mark Steedman and Mirella Lapata},
+year	= {2016},
+journal	= {Transactions of the Association for Computational Linguistics},
+volume	= {4}
+}
+
+
+@inproceedings{45300,
+title	= {TTS for Low Resource Languages: A Bangla Synthesizer},
+author	= {Alexander Gutkin and Linne Ha and Martin Jansche and Knot Pipatsrisawat and Richard Sproat},
+year	= {2016},
+URL	= {http://www.lrec-conf.org/proceedings/lrec2016/pdf/286_Paper.pdf},
+booktitle	= {10th edition of the Language Resources and Evaluation Conference, 23-28 May 2016},
+pages	= {2005-2010},
+address	= {Portorož, Slovenia}
+}
+
+
+@proceedings{46765,
+title	= {Understanding Image and Text Simultaneously: a Dual Vision-Language Machine Comprehension Task},
+editor	= {Nan Ding and Sebastian Goodman and Fei Sha and Radu Soricut},
+year	= {2016},
+address	= {https://arxiv.org/abs/1612.07833}
+}
+
+
+@inproceedings{46391,
+title	= {Universal Dependencies v1: A Multilingual Treebank Collection},
+author	= {Joakim Nivre and Marie-Catherine de Marneffe and Filip Ginter and Yoav Goldberg and Jan Hajic and Christopher D. Manning and Ryan McDonald and Slav Petrov and Sampo Pyysalo and Natalia Silveira and Reut Tsarfaty and Daniel Zeman},
+year	= {2016},
+URL	= {http://www.petrovi.de/data/lrec16.pdf},
+booktitle	= {Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016)}
+}
+
+
+@inproceedings{43891,
+title	= {A Computationally Efficient Algorithm for Learning Topical Collocation Models},
+author	= {Zhendong Zhao and Lan Du and Benjamin Borschinger and John K Pate and Massimiliano Ciaramita and Mark Steedman and Mark Johnson},
+year	= {2015},
+booktitle	= {Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing},
+pages	= {1460--1469},
+address	= {Beijing, China}
+}
+
+
+@inproceedings{43801,
+title	= {A Linear-Time Transition System for Crossing Interval Trees},
+author	= {Emily Pitler and Ryan McDonald},
+year	= {2015},
+booktitle	= {NAACL},
+pages	= {662–-671}
+}
+
+
+@inproceedings{43819,
+title	= {Bringing Contextual Information to Google Speech Recognition},
+author	= {Petar Aleksic and Mohammadreza Ghodsi and Assaf Michaely and Cyril Allauzen and Keith Hall and Brian Roark and David Rybach and Pedro Moreno},
+year	= {2015},
+booktitle	= {Interspeech 2015, International Speech Communications Association}
+}
+
+
+@inproceedings{43816,
+title	= {Composition-based on-the-fly rescoring for salient n-gram biasing},
+author	= {Keith Hall and Eunjoon Cho and Cyril Allauzen and Francoise Beaufays and Noah Coccaro and Kaisuke Nakajima and Michael Riley and Brian Roark and David Rybach and Linda Zhang},
+year	= {2015},
+booktitle	= {Interspeech 2015, International Speech Communications Association}
+}
+
+
+@article{43251,
+title	= {Efficient Inference and Structured Learning for Semantic Role Labeling},
+author	= {Oscar Täckström and Kuzman Ganchev and Dipanjan Das},
+year	= {2015},
+journal	= {Transactions of the Association for Computational Linguistics},
+pages	= {29--41},
+volume	= {3}
+}
+
+
+@inproceedings{43848,
+title	= {Efficient Top-Down BTG Parsing for Machine Translation Preordering},
+author	= {Tetsuji Nakagawa},
+year	= {2015},
+booktitle	= {Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)},
+pages	= {208-218}
+}
+
+
+@proceedings{46523,
+title	= {Embedding methods for fine-grained entity type classification},
+editor	= {Dani Yogatama and Dan Gillick and Nevena Lazic},
+year	= {2015},
+URL	= {http://www.cs.cmu.edu/~dyogatam/papers/yogatama+etal.acl2015short.pdf}
+}
+
+
+@inproceedings{43817,
+title	= {Geo-location for Voice Search Language Modeling},
+author	= {Ciprian Chelba and Xuedong Zhang and Keith Hall},
+year	= {2015},
+booktitle	= {Interspeech 2015, International Speech Communications Association},
+pages	= {1438--1442}
+}
+
+
+@inproceedings{43799,
+title	= {Grammar as a Foreign Language},
+author	= {Oriol Vinyals and Lukasz Kaiser and Terry Koo and Slav Petrov and Ilya Sutskever and Geoffrey Hinton},
+year	= {2015},
+URL	= {http://arxiv.org/abs/1412.7449},
+booktitle	= {NIPS}
+}
+
+
+@inproceedings{44650,
+title	= {HEADS: Headline Generation as Sequence Prediction Using an Abstract Feature-Rich Space},
+author	= {Carlos A. Colmenares and Marina Litvak and Amin Mantrach and Fabrizio Silvestri},
+year	= {2015},
+URL	= {http://www.aclweb.org/anthology/N15-1014},
+booktitle	= {Human Language Technologies: The 2015 Annual Conference of the North American Chapter of the ACL (NAACL'15)},
+pages	= {133--142}
+}
+
+
+@inproceedings{43851,
+title	= {Idest: Learning a Distributed Representation for Event Patterns},
+author	= {Sebastian Krause and Enrique Alfonseca and Katja Filippova and Daniele Pighin},
+year	= {2015},
+booktitle	= {Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL'15)},
+pages	= {1140--1149}
+}
+
+
+@inproceedings{44203,
+title	= {Improved recognition of contact names in voice commands},
+author	= {Petar Aleksic and Cyril Allauzen and David Elson and Aleks Kracun and Diego Melendo Casado and Pedro J. Moreno},
+year	= {2015},
+booktitle	= {ICASSP 2015}
+}
+
+
+@inproceedings{43883,
+title	= {Improved Transition-Based Parsing and Tagging with Neural Networks},
+author	= {Chris Alberti and David Weiss and Greg Coppola and Slav Petrov},
+year	= {2015},
+URL	= {http://www.petrovi.de/data/emnlp15.pdf},
+booktitle	= {Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP '15)}
+}
+
+
+@inproceedings{43335,
+title	= {Long Short-Term Memory Language Models with Additive Morphological Features for Automatic Speech Recognition},
+author	= {Daniel Renshaw and Keith B. Hall},
+year	= {2015},
+booktitle	= {IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)}
+}
+
+
+@inproceedings{43473,
+title	= {Mining Subjective Properties on the Web},
+author	= {Immanuel Trummer and Alon Halevy and Hongrae Lee and Sunita Sarawagi and Rahul Gupta},
+year	= {2015},
+booktitle	= {SIGMOD}
+}
+
+
+@article{43407,
+title	= {Modeling the Lifespan of Discourse Entities  with Application to Coreference Resolution},
+author	= {Marie-Catherine de Marneffe and Marta Recasens and Christopher Potts},
+year	= {2015},
+URL	= {http://www.jair.org/media/4565/live-4565-8580-jair.pdf},
+journal	= {Journal of Artificial Intelligence Research},
+pages	= {445-475},
+volume	= {52}
+}
+
+
+@inproceedings{43449,
+title	= {Multilingual Open Relation Extraction Using Cross-lingual Projection},
+author	= {Manaal Faruqui and Shankar Kumar},
+year	= {2015},
+booktitle	= {Proceedings of NAACL}
+}
+
+
+@techreport{44280,
+title	= {Multinomial Loss on Held-out Data for the Sparse Non-negative Matrix Language Model},
+author	= {Ciprian Chelba and Fernando Pereira},
+year	= {2015},
+URL	= {http://arxiv.org/abs/1511.01574},
+institution	= {Google}
+}
+
+
+@inproceedings{44633,
+title	= {Multitask learning and system combination for automatic speech recognition},
+author	= {Olivier Siohan and David Rybach},
+year	= {2015},
+booktitle	= {2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU)}
+}
+
+
+@article{44016,
+title	= {Plato: A Selective Context Model for Entity Resolution},
+author	= {Nevena Lazic and Amarnag Subramanya and Michael Ringgaard and Fernando Pereira},
+year	= {2015},
+URL	= {https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/637},
+journal	= {Transactions of the Association for Computational Linguistics},
+pages	= {503--515},
+volume	= {3}
+}
+
+
+@inproceedings{43830,
+title	= {Pruning Sparse Non-negative Matrix N-gram Language Models},
+author	= {Joris Pelemans and Noam M. Shazeer and Ciprian Chelba},
+year	= {2015},
+booktitle	= {Proceedings of Interspeech 2015},
+pages	= {1433--1437}
+}
+
+
+@inproceedings{44202,
+title	= {Rapid Vocabulary Addition to Context-Dependent Decoder Graphs},
+author	= {Cyril Allauzen and Michael Riley},
+year	= {2015},
+booktitle	= {Interspeech 2015}
+}
+
+
+@inproceedings{43154,
+title	= {Refer-to-as Relations as Semantic Knowledge},
+author	= {Song Feng and Sujith Ravi and Ravi Kumar and Polina Kuznetsova and Wei Liu and Alex Berg and Tamara Berg and Yejin Choi},
+year	= {2015},
+booktitle	= {AAAI Conference on Artificial Intelligence}
+}
+
+
+@inproceedings{43433,
+title	= {Resolving Discourse-Deictic Pronouns: A Two-Stage Approach to Do It},
+author	= {Sujay Kumar Jauhar and Raul D. Guerra and Edgar Gonzàlez Pellicer and Marta Recasens},
+year	= {2015},
+URL	= {https://aclweb.org/anthology/S/S15/S15-1035.pdf},
+booktitle	= {Proceedings of the 4th Joint Conference on Lexical and Computational Semantics (*SEM 2015)},
+pages	= {299--308}
+}
+
+
+@inproceedings{43892,
+title	= {Semantic Role Labeling with Neural Network Factors},
+author	= {Nicholas FitzGerald and Oscar Täckström and Kuzman Ganchev and Dipanjan Das},
+year	= {2015},
+URL	= {http://www.aclweb.org/anthology/D15-1112},
+booktitle	= {Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP '15)}
+}
+
+
+@inproceedings{43852,
+title	= {Sentence Compression by Deletion with LSTMs},
+author	= {Katja Filippova and Enrique Alfonseca and Carlos Colmenares and Lukasz Kaiser and Oriol Vinyals},
+year	= {2015},
+booktitle	= {Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP'15)}
+}
+
+
+@inproceedings{43818,
+title	= {Sequence-based Class Tagging for Robust Transcription in ASR},
+author	= {Lucy Vasserman and Vlad Schogol and Keith Hall},
+year	= {2015},
+booktitle	= {Interspeech 2015, International Speech Communications Association}
+}
+
+
+@inproceedings{43964,
+title	= {Sparse Non-negative Matrix Language Modeling for Geo-annotated Query Session Data},
+author	= {Ciprian Chelba and Noam M. Shazeer},
+year	= {2015},
+booktitle	= {Automatic Speech Recognition and Understanding Workshop (ASRU 2015) Proceedings},
+pages	= {to appear}
+}
+
+
+@inproceedings{43829,
+title	= {Sparse Non-negative Matrix Language Modeling For Skip-grams},
+author	= {Noam M. Shazeer and Joris Pelemans and Ciprian Chelba},
+year	= {2015},
+booktitle	= {Proceedings of Interspeech 2015},
+pages	= {1428--1432}
+}
+
+
+@inproceedings{43800,
+title	= {Structured Training for Neural Network Transition-Based Parsing},
+author	= {David Weiss and Chris Alberti and Michael Collins and Slav Petrov},
+year	= {2015},
+booktitle	= {Proceedings of the 53th Annual Meeting of the Association for Computational Linguistics (ACL '15)}
+}
+
+
+@inproceedings{46763,
+title	= {Unsupervised Morphology Induction Using Word Embeddings},
+author	= {Radu Soricut and Franz Och},
+year	= {2015},
+booktitle	= {NAACL}
+}
+
+
+@inproceedings{44316,
+title	= {Using Entity Information from a Knowledge Base to Improve Relation Extraction},
+author	= {Lan Du and Anish Kumar and M. Johnson and Massimiliano Ciaramita},
+year	= {2015},
+booktitle	= {Proceedings of the 13th annual workshop of The Australasian Language Technology Association}
+}
+
+
+@article{42214,
+title	= {A Crossing-Sensitive Third-Order Factorization for Dependency Parsing},
+author	= {Emily Pitler},
+year	= {2014},
+URL	= {http://www.transacl.org/wp-content/uploads/2014/02/39.pdf},
+journal	= {Transactions of the Association for Computational Linguistics},
+pages	= {41--54},
+volume	= {2}
+}
+
+
+@inproceedings{42526,
+title	= {A Database for Measuring Linguistic Information Content.},
+author	= {Richard Sproat and Bruno Cartoni and HyunJeong Choe and David Huynh and Linne Ha and Ravindran Rajakumar and Evelyn Wenzel-Grondie},
+year	= {2014},
+URL	= {http://www.lrec-conf.org/proceedings/lrec2014/pdf/47_Paper.pdf},
+booktitle	= {Language Resources and Evaluation Conference},
+address	= {330 W 58th St}
+}
+
+
+@inproceedings{42183,
+title	= {A Discriminative Latent Variable Model for Online Clustering},
+author	= {Rajhans Samdani and Kai-Wei Chang and Dan Roth},
+year	= {2014},
+URL	= {http://jmlr.org/proceedings/papers/v32/samdani14.pdf},
+booktitle	= {International Conference on Machine Learning}
+}
+
+
+@inproceedings{42235,
+title	= {A New Entity Salience Task with Millions of Training Examples},
+author	= {Dan Gillick and Jesse Dunietz},
+year	= {2014},
+booktitle	= {Proceedings of the European Association for Computational Linguistics}
+}
+
+
+@inproceedings{42453,
+title	= {A Scalable Gibbs Sampler for Probabilistic Entity Linking},
+author	= {Neil Houlsby and Massimiliano Ciaramita},
+year	= {2014},
+booktitle	= {Advances in Information Retrieval (ECIR 2014)},
+pages	= {335-346}
+}
+
+
+@inproceedings{43243,
+title	= {Acquisition of Noncontiguous Class Attributes from Web Search Queries},
+author	= {Marius Pasca},
+year	= {2014},
+booktitle	= {Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics (EACL-2014)},
+pages	= {386--394}
+}
+
+
+@inproceedings{43244,
+title	= {Acquisition of Open-Domain Classes via Intersective Semantics},
+author	= {Marius Pasca},
+year	= {2014},
+booktitle	= {Proceedings of the 23rd International World Wide Web Conference (WWW-2014)},
+pages	= {551--562}
+}
+
+
+@inproceedings{43113,
+title	= {Adapting taggers to Twitter with not-so-distant supervision},
+author	= {Barbara Plank and Dirk Hovy and Anders Sogaard and Ryan McDonald},
+year	= {2014},
+URL	= {http://cst.dk/bplank/papers/coling2014-hyperlinks.pdf},
+booktitle	= {International Conference on Computational Linguistics}
+}
+
+
+@inproceedings{42559,
+title	= {An Extension of BLANC to System Mentions},
+author	= {Xiaoqiang Luo and Sameer Pradhan and Marta Recasens and Eduard Hovy},
+year	= {2014},
+URL	= {http://69.195.124.161/~aclwebor/anthology/P/P14/P14-2005.pdf},
+booktitle	= {Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (Short Papers)},
+pages	= {24--29}
+}
+
+
+@inproceedings{42533,
+title	= {Applications of Maximum Entropy Rankers to Problems in Spoken Language Processing},
+author	= {Richard Sproat and Keith Hall},
+year	= {2014},
+booktitle	= {Interspeech 2014}
+}
+
+
+@inproceedings{43114,
+title	= {Backoff Inspired Features for Maximum Entropy Language Models},
+author	= {Fadi Biadsy and Keith Hall and Pedro Moreno and Brian Roark},
+year	= {2014},
+booktitle	= {Proceedings of Interspeech}
+}
+
+
+@inproceedings{43016,
+title	= {Bridging Text and Knowledge with Frames},
+author	= {Srini Narayanan},
+year	= {2014},
+URL	= {http://www.icsi.berkeley.edu/~snarayan/acl2014.pdf},
+booktitle	= {ACL Workshop on Frame Semantics (in honor of Charles FIllmore)}
+}
+
+
+@inproceedings{42502,
+title	= {Computer-aided quality assurance of an Icelandic pronunciation dictionary},
+author	= {Martin Jansche},
+year	= {2014},
+URL	= {http://www.lrec-conf.org/proceedings/lrec2014/pdf/339_Paper.pdf},
+booktitle	= {LREC 2014},
+address	= {Reykjavik}
+}
+
+
+@article{43112,
+title	= {Constrained Arc-Eager Dependency Parsing},
+author	= {Joakim Nivre and Yoav Goldberg and Ryan McDonald},
+year	= {2014},
+URL	= {http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00184},
+journal	= {Computational Linguistics}
+}
+
+
+@inproceedings{42652,
+title	= {Context Dependent State Tying for Speech Recognition using Deep Neural Network Acoustic Models},
+author	= {M. Bacchiani and D. Rybach},
+year	= {2014},
+booktitle	= {Proceedings of the International Conference on Acoustics,Speech and Signal Processing}
+}
+
+
+@misc{43240,
+title	= {Context-Dependent Fine-Grained Entity Type Tagging},
+author	= {Dan Gillick and Nevena Lazic and Kuzman Ganchev and Jesse Kirchner and David Huynh},
+year	= {2014},
+URL	= {http://arxiv.org/abs/1412.1820}
+}
+
+
+@inproceedings{42900,
+title	= {Discriminative pronunciation modeling for dialectal speech recognition},
+author	= {Maider Lehr and Kyle Gorman and Izhak Shafran},
+year	= {2014},
+booktitle	= {Proc. Interspeech}
+}
+
+
+@inproceedings{43078,
+title	= {Encoding Linear Models As Weighted Finite-State Transducers},
+author	= {Ke Wu and Cyril Allauzen and Keith Hall and Michael Riley and Brian Roark},
+year	= {2014},
+booktitle	= {Interspeech 2014},
+pages	= {1258-1262}
+}
+
+
+@inproceedings{42481,
+title	= {Enforcing Structural Diversity in Cube-pruned Dependency Parsing},
+author	= {Hao Zhang and Ryan McDonald},
+year	= {2014},
+booktitle	= {ACL}
+}
+
+
+@inproceedings{42490,
+title	= {Enhanced Search with Wildcards and Morphological In?ections in the Google Books Ngram Viewer},
+author	= {Jason Mann and David Zhang and Lu Yang and Dipanjan Das and Slav Petrov},
+year	= {2014},
+booktitle	= {Proceedings of the 52th Annual Meeting of the Association for Computational Linguistics (Demonstrations)}
+}
+
+
+@article{41227,
+title	= {Frame-Semantic Parsing},
+author	= {Dipanjan Das and Desai Chen and André F. T. Martins and Nathan Schneider and Noah A. Smith},
+year	= {2014},
+journal	= {Computational Linguistics},
+pages	= {9--56},
+volume	= {40:1}
+}
+
+
+@inproceedings{42287,
+title	= {Great Question! Question Quality in Community Q&A},
+author	= {Sujith Ravi and Bo Pang and Vibhor Rastogi and Ravi Kumar},
+year	= {2014},
+booktitle	= {International AAAI Conference on Weblogs and Social Media (ICWSM)}
+}
+
+
+@inproceedings{42527,
+title	= {Hippocratic Abbreviation Expansion},
+author	= {Brian Roark and Richard Sproat},
+year	= {2014},
+booktitle	= {ACL}
+}
+
+
+@inproceedings{42898,
+title	= {Learning Compact Lexicons for CCG Semantic Parsing},
+author	= {Yoav Artzi and Dipanjan Das and Slav Petrov},
+year	= {2014},
+booktitle	= {Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP '14)}
+}
+
+
+@inproceedings{42470,
+title	= {Modelling Events through Memory-based, Open-IE Patterns for Abstractive Summarization},
+author	= {Daniele Pighin and Marco Cornolti and Enrique Alfonseca and Katja Filippova},
+year	= {2014},
+booktitle	= {Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (ACL'14)},
+pages	= {892--901}
+}
+
+
+@inproceedings{42471,
+title	= {Opinion Mining on YouTube},
+author	= {Aliaksei Severyn and Olga Uryupina and Barbara Plank and Alessandro Moschitti and Katja Filippova},
+year	= {2014},
+booktitle	= {Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (ACL'14)},
+pages	= {1252--1261}
+}
+
+
+@article{42286,
+title	= {Parallel Algorithms for Unsupervised Tagging},
+author	= {Sujith Ravi and Sergei Vassilivitskii and Vibhor Rastogi},
+year	= {2014},
+journal	= {Transactions of the ACL}
+}
+
+
+@article{42946,
+title	= {ParTes. Test Suite for Parsing Evaluation},
+author	= {Marina Lloberes and Irene Castellón and Lluís Padró and Edgar Gonzàlez},
+year	= {2014},
+URL	= {http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/5040},
+journal	= {Procesamiento del Lenguaje Natural},
+pages	= {87-94},
+volume	= {53}
+}
+
+
+@inproceedings{42254,
+title	= {Projecting the Knowledge Graph to Syntactic Parsing},
+author	= {Andrea Gesmundo and Keith Hall},
+year	= {2014},
+booktitle	= {EACL 2014: 15th Conference of the European Chapter of the Association for Computational Linguistics}
+}
+
+
+@article{44201,
+title	= {Pushdown automata in statistical machine translation},
+author	= {Cyril Allauzen and Bill Byrne and Adrià de Gispert and Gonzalo Iglesias and Michael Riley},
+year	= {2014},
+URL	= {http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00197},
+journal	= {Computational Linguistics},
+pages	= {687-723},
+volume	= {40}
+}
+
+
