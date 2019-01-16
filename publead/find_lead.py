@@ -135,6 +135,8 @@ def write_stats_dictionary_to_csv(last_and_s2l_count):
         csv_writer.writerow(header)
         csv_writer.writerows(rows_to_write)
 
+    logger.info('Finished writing to CSV file.')
+
 
 def main():
     """The main function."""
