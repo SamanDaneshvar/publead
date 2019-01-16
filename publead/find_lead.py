@@ -6,6 +6,8 @@ from publead import utils
 
 import time
 import re
+import os
+import csv
 
 
 def get_authors_of_papers():
@@ -97,19 +99,42 @@ def author_stats(authors_of_papers):
     return last_and_s2l_count
 
 
+def write_stats_dictionary_to_csv(last_and_s2l_count):
+    """Write the dictionary of last and second-to-last author counts to a CSV file"""
 
-    return last_author_count, second_to_last_author_count
+    # Constant
+    OUTPUT_FILE_PATH = 'data/out/author stats.csv'
+
+    # Create the directory if it does not exist.
+    os.makedirs(os.path.dirname(OUTPUT_FILE_PATH), exist_ok=True)
+
+    rows_to_write = []  # Create an empty list
+
+    # Convert the dictionary into a list of rows. Each row will also be a list of items.
+    for author, count_list in last_and_s2l_count.items():
+        row = []  # Create an empty list
+        # Assemble the row for this author
+        row.append(author)
+        row.extend(count_list)  # *extend* appends all items inside a iterable to the list
+        # Append the row to *rows_to_write* and move on
+        rows_to_write.append(row)
+
+    # Assemble the header row
+    header = ['Author', 'Last author count', 'Second-to-last author count']
+
+    # Write to the CSV file
+    with open(OUTPUT_FILE_PATH, 'w', newline='', encoding='utf-8') as csv_output_file:
+        csv_writer = csv.writer(csv_output_file)
+        csv_writer.writerow(header)
+        csv_writer.writerows(rows_to_write)
 
 
 def main():
-    """The main function.
-
-    Every time the script runs, it will call this function.
-    """
+    """The main function."""
 
     authors_of_papers = get_authors_of_papers()
     last_and_s2l_count = author_stats(authors_of_papers)
-    write_dictionary_to_csv(last_and_s2l_count)
+    write_stats_dictionary_to_csv(last_and_s2l_count)
 
     # Log run time
     logger.info('@ %.2f seconds: Run finished', time.process_time())
