@@ -1,12 +1,13 @@
 """Identify the research lead in a research group, by looking at the author names in the publications of the group.
 
 This script loads a text file of BibTeX entries of papers. It then creates a dictionary of all authors, and counts
-the number of papers were each author is the last author and also the second-to-last author.
+the number of papers were each author is the last author, the second-to-last author, and also one of the authors.
 In the end, it writes the dictionary into a CSV file.
 
 Remarks:
 - Papers with only 1 author won't count towards the last author count of their author.
-- Papers with only 2 authors won't count towards the second-to-last author count of their authors.
+- Papers with 2 or less authors won't count towards the second-to-last author count of their authors.
+- All papers count towards the author count of their authors.
 """
 
 from publead import utils
@@ -61,56 +62,62 @@ def get_authors_of_papers():
     return authors_of_papers
 
 
-def author_stats(authors_of_papers):
+def get_author_stats(authors_of_papers):
     """Counts last authors and second-to-last authors
 
     Args:
         authors_of_papers: A list of strings. Each string should contain all authors of a paper, in the form of
         "Author1 Name and Author2 Name and ..."
     Returns:
-        A dictionary mapping authors to the number of papers were they were the last and second-to-last author:
+        A dictionary mapping authors to their authorship statistics:
             Key: Name of author
-            Value: List of two integers. The first integer counts last author, the second counts second-to-last author
+            Value: List of three integers:
+                1. The number of papers were this author is the last author
+                2. The number of papers were this author is the second-to-last author
+                3. The number of papers were this author is one of the authors.
     """
 
-    # Create empty dictionaries
-    last_and_s2l_count = {}
-    last_author_count = {}
-    second_to_last_author_count = {}
+    author_stats = {}  # Create an empty dictionary
 
     for authors_of_paper in authors_of_papers:
         # *string.split* will return a list of sub-strings, separated by ' and '
         authors = authors_of_paper.split(' and ')
 
-        # Initialize: add all new authors to the dictionary with a value of [0, 0] (a list of two integers)
+        # Initialize: add all new authors to the dictionary with a value of [0, 0, 0] (a list of three integers)
         for author in authors:
-            if author not in last_and_s2l_count:
-                last_and_s2l_count[author] = [0, 0]
+            if author not in author_stats:
+                author_stats[author] = [0, 0, 0]
+
+        # Count the author. Here, we will count all the papers where this person is one of the authors.
+        for author in authors:
+            # Increment the value in the dictionary. Note that all authors have already been added to the dictionary.
+            # The third element in the list (index=2) refers to the author count.
+            author_stats[author][2] = author_stats[author][2] + 1
 
         # Count the last author. We will ignore the papers that have only 1 author.
         if len(authors) > 1:
             last_author = authors[-1]
             # Increment the value in the dictionary. Note that all authors have already been added to the dictionary.
-            # The first element in the list refers to the last-author count
-            last_and_s2l_count[last_author][0] = last_and_s2l_count[last_author][0] + 1
+            # The first element in the list (index=0) refers to the last-author count.
+            author_stats[last_author][0] = author_stats[last_author][0] + 1
 
         # Count the second-to-last author. We will ignore the papers that have only 1 or 2 authors.
         if len(authors) > 2:
             second_to_last_author = authors[-2]
             # Same as above
-            # The second element in the list refers to the second-to-last-author count
-            last_and_s2l_count[second_to_last_author][1] = last_and_s2l_count[second_to_last_author][1] + 1
+            # The second element in the list (index=1) refers to the second-to-last-author count.
+            author_stats[second_to_last_author][1] = author_stats[second_to_last_author][1] + 1
 
-    logger.info('Processed %s authors', len(last_and_s2l_count))
+    logger.info('Processed %s authors', len(author_stats))
 
-    return last_and_s2l_count
+    return author_stats
 
 
-def write_stats_dictionary_to_csv(last_and_s2l_count):
-    """Write the dictionary of last and second-to-last author counts to a CSV file"""
+def write_stats_dictionary_to_csv(author_stats):
+    """Write the dictionary of author stats to a CSV file"""
 
     # Constant
-    OUTPUT_FILE_PATH = 'data/out/author stats.csv'
+    OUTPUT_FILE_PATH = 'data/out/Author Stats.csv'
 
     # Create the directory if it does not exist.
     os.makedirs(os.path.dirname(OUTPUT_FILE_PATH), exist_ok=True)
@@ -118,7 +125,7 @@ def write_stats_dictionary_to_csv(last_and_s2l_count):
     rows_to_write = []  # Create an empty list
 
     # Convert the dictionary into a list of rows. Each row will also be a list of items.
-    for author, count_list in last_and_s2l_count.items():
+    for author, count_list in author_stats.items():
         row = []  # Create an empty list
         # Assemble the row for this author
         row.append(author)
@@ -127,7 +134,7 @@ def write_stats_dictionary_to_csv(last_and_s2l_count):
         rows_to_write.append(row)
 
     # Assemble the header row
-    header = ['Author', 'Last author count', 'Second-to-last author count']
+    header = ['Author', 'Last author count', 'Second-to-last author count', 'Author count']
 
     # Write to the CSV file
     with open(OUTPUT_FILE_PATH, 'w', newline='', encoding='utf-8') as csv_output_file:
@@ -142,7 +149,7 @@ def main():
     """The main function."""
 
     authors_of_papers = get_authors_of_papers()
-    last_and_s2l_count = author_stats(authors_of_papers)
+    last_and_s2l_count = get_author_stats(authors_of_papers)
     write_stats_dictionary_to_csv(last_and_s2l_count)
 
     # Log run time
