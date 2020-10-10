@@ -92,21 +92,21 @@ def get_author_stats(authors_of_papers):
         for author in authors:
             # Increment the value in the dictionary. Note that all authors have already been added to the dictionary.
             # The third element in the list (index=2) refers to the author count.
-            author_stats[author][2] = author_stats[author][2] + 1
+            author_stats[author][2] += 1
 
         # Count the last author. We will ignore the papers that have only 1 author.
         if len(authors) > 1:
             last_author = authors[-1]
             # Increment the value in the dictionary. Note that all authors have already been added to the dictionary.
             # The first element in the list (index=0) refers to the last-author count.
-            author_stats[last_author][0] = author_stats[last_author][0] + 1
+            author_stats[last_author][0] += 1
 
         # Count the second-to-last author. We will ignore the papers that have only 1 or 2 authors.
         if len(authors) > 2:
             second_to_last_author = authors[-2]
             # Same as above
             # The second element in the list (index=1) refers to the second-to-last-author count.
-            author_stats[second_to_last_author][1] = author_stats[second_to_last_author][1] + 1
+            author_stats[second_to_last_author][1] += 1
 
     logger.info('Processed %s authors', len(author_stats))
 
