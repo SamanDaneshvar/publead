@@ -4,7 +4,7 @@ A simple tool that helps you identify the research lead in a research group, by 
 ## Usage
 The main script, find_lead.py, loads a text file containing BibTeX entries of papers. A sample input file is included ("data/in/papers.txt")
 
-It then creates a dictionary of all authors, and counts the number of papers were each author is the last author and also the second-to-last author.
+It then creates a dictionary of all authors, and counts the number of papers where each author is the last author and also the second-to-last author.
 
 In the end, it writes the dictionary into a CSV file. The output CSV file will be written to "data/out/author stats.csv"
 
